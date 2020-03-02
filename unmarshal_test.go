@@ -1,4 +1,4 @@
-package go_additional_json
+package additionaljson
 
 import (
 	"fmt"
